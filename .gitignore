@@ -1,0 +1,6 @@
+.env
+node_modules/
+Pipfile.lock
+package-lock.json
+metaplex-script
+Pipfile
