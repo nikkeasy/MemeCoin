@@ -1,0 +1,1 @@
+{"name":"baladdin","version":"1.0.0","type":"module","scripts":{"upload":"node upload.mjs"},"license":"ISC","dependencies":{"axios":"^1.11.0","dotenv":"^17.2.1","form-data":"^4.0.4","mime-types":"^3.0.1","nft.storage":"^3.4.0"}}
